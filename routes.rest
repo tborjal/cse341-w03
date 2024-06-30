@@ -27,10 +27,10 @@ content-type: application/json
 {
     "firstName":"Terence",
     "lastName":"Borjal",
-    "email":"tborj@bigpond.com",
+    "email":"tborjal@bigpond.com",
     "favoriteColor":"Green",
     "birthday":"04/07/2023"
 }
 ### DELETE contact
-DELETE http://localhost:8083/contacts/6681bec1cd0a0a4dd911bdba HTTP/1.1
+DELETE http://localhost:8083/contacts/6681bd88cd0a0a4dd911bdb9 HTTP/1.1
 
