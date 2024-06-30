@@ -8,7 +8,7 @@
   "host": "localhost:8083",
   "basePath": "/",
   "schemes": [
-    "https"
+    "http"
   ],
   "paths": {
     "/api-docs": {
