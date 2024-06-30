@@ -21,7 +21,7 @@ content-type: application/json
 
 
 ### PUT contact
-PUT http://localhost:8083/contacts/6220bcb39cd507e920c75a0b HTTP/1.1
+PUT http://localhost:8083/contacts/6681bec1cd0a0a4dd911bdba HTTP/1.1
 content-type: application/json
 
 {
@@ -32,5 +32,5 @@ content-type: application/json
     "birthday":"04/07/2023"
 }
 ### DELETE contact
-DELETE http://localhost:8083/contacts/6220b775099269ff7b31ceab HTTP/1.1
+DELETE http://localhost:8083/contacts/6681bec1cd0a0a4dd911bdba HTTP/1.1
 
